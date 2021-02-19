@@ -6,4 +6,4 @@ The text interface makes the game more fun to play.
    - Single Player (vs Computer)
    - 2 player mode
 
-### The bot works on **Minimax algorithm**, hence it is Invinsible.
+### The bot works on **Minimax algorithm**, hence it is Invincible.
